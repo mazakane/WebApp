@@ -60,6 +60,6 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'dmo-ne-az104-webapp'
-          slot-name: 'beta'
+          slot-name: 'beta2'
           package: .
           
